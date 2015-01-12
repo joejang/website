@@ -7,7 +7,6 @@
 
 **Author**:*joejang@163.com*
 **Source**:*pc4y.com*
-**Backup**:*https://github.com/joejang*
 **Date**:*01/12/2015*
 
 *Abstract:A brief introduction to an aproach to implement "local-editing and remote-browsing" support for reStructuredText and Markdown documents. Related tools and techniques include reStructuredText, Markdown, Dropbox, python, php, Docutil and Pygments.*
